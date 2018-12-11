@@ -11,9 +11,7 @@ public class ArrayToListTest {
     public static void arrayToList() {
         Integer[] a = {1, 2, 3, 4, 5};
         List<Integer> collect = Arrays.stream(a).collect(Collectors.toList());
-
-
-        System.out.println("commit 1");
+        System.out.println("test 3");
     }
 
 }
