@@ -13,6 +13,7 @@ public class ArrayToListTest {
         List<Integer> collect = Arrays.stream(a).collect(Collectors.toList());
 
 
+        System.out.println("commit 1");
     }
 
 }
