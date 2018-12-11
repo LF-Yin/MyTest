@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2612be43-4469-4226-b440-e12fa10326f3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayToListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayToListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaseTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -72,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayToListTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayToListTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ArrayToListTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -110,7 +118,6 @@
         <option value="$PROJECT_DIR$/src/LambdaTest.java" />
         <option value="$PROJECT_DIR$/src/ConsumerTest.java" />
         <option value="$PROJECT_DIR$/src/StreamTest.java" />
-        <option value="$PROJECT_DIR$/src/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/DateTest.java" />
@@ -125,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/ListTest.java" />
         <option value="$PROJECT_DIR$/src/FunctionImplTest.java" />
         <option value="$PROJECT_DIR$/src/ArrayToListTest.java" />
+        <option value="$PROJECT_DIR$/src/BaseTest.java" />
       </list>
     </option>
   </component>
@@ -303,12 +311,12 @@
       <workItem from="1542532946005" duration="1157000" />
       <workItem from="1542884007083" duration="732000" />
       <workItem from="1544425191980" duration="980000" />
-      <workItem from="1544524080435" duration="80000" />
+      <workItem from="1544524080435" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58372000" />
+    <option name="totallyTimeSpent" value="58441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,10 +342,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.31873727" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32892057" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32892057" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12673056" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -609,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/EnumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -744,6 +745,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>

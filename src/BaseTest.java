@@ -19,5 +19,6 @@ public class BaseTest {
     public static void getSize(){
         List<String> list = new ArrayList<>();
         System.out.println(list.size());
+        System.out.println("test 2");
     }
 }
