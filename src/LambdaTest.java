@@ -9,7 +9,8 @@ public class LambdaTest {
 //        Test2();
 //        Test3();
 //        Test4();
-        Test5();
+//        Test5();
+        streamTest();
     }
 
     public static void Test1() {
@@ -84,6 +85,16 @@ public class LambdaTest {
         link = link.stream().distinct().collect(Collectors.toCollection(LinkedList::new));
         System.out.println(link);
 
+    }
+
+    public static void streamTest(){
+        List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6);
+
+        System.out.println("skip:");
+        numbers.stream().skip(2).forEach(System.out::println);
+
+        System.out.println("limit:");
+        numbers.stream().limit(2).forEach(System.out::println);
     }
 
 }
